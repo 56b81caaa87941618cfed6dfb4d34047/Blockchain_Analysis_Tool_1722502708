@@ -98,6 +98,12 @@ Vue.component("items_table_component_1722502711", {
                 </tfoot>
             </table>
         </div>
+        <div class="mt-4 text-center">
+            <button class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded">
+                Hello World
+            </button>
+        </div>
+    </section>
     </section>
     `,
     data() {
