@@ -12,7 +12,7 @@ Vue.component("dark_header_component_1722502711", {
                     <!-- Logo -->
                     <a class="flex items-center space-x-4" href="index.html" aria-label="Cruip">
                         <img id="site-logo" class="rounded-full" src="./images/logo.jpg" width="32" height="32" alt="Mary Rutt">
-                        <span id="site-name" class="text-slate-200">PERSON_NAME</span>
+                        <span id="site-name" class="text-slate-200">Introducing BlockScan, the cutting-edge app that revolutionizes how you interact with blockchain data. With BlockScan, you can effortlessly analyze and monitor the latest transactions, smart contracts, and network activity across multiple blockchains. Gain valuable insights, identify trends, and stay ahead of the curve in the ever-evolving world of decentralized technologies.</span>
                     </a>
                 </div>
                 <!-- Right side -->

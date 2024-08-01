@@ -6,7 +6,7 @@
 Vue.component("quoty_faq_accordion_component_1722502711", {
     template: `
     <section class="py-8 bg-white pl-4">
-        <h2 class="text-lg font-semibold mb-5">PLACEHOLDER_FAQ_TITLE</h2>
+        <h2 class="text-lg font-semibold mb-5">Frequently Asked Questions About Our Blockchain Analysis App</h2>
         <!-- Accordion -->
         <div class="space-y-3">
             <!-- Accordion item -->
@@ -35,10 +35,10 @@ Vue.component("quoty_faq_accordion_component_1722502711", {
     data() {
         return {
             terms: [
-                { title: "ACCORDION_QUESTION_1", description: "ACCORDION_ANSWER_1", expanded: false },
-                { title: "ACCORDION_QUESTION_2", description: "ACCORDION_ANSWER_2", expanded: false },
-                { title: "ACCORDION_QUESTION_3", description: "ACCORDION_ANSWER_3", expanded: false },
-                { title: "ACCORDION_QUESTION_4", description: "ACCORDION_ANSWER_4", expanded: false },
+                { title: "What is a blockchain analysis app?", description: "A blockchain analysis app allows you to extract insights and data from blockchain networks like Bitcoin, Ethereum, and others. It provides tools to monitor, track, and analyze blockchain transactions and activities.", expanded: false },
+                { title: "What kind of analysis can I do with this app?", description: "With our app, you can analyze transaction patterns, identify major players and wallets, track token movements, detect anomalies or suspicious behavior, and gain deeper visibility into blockchain ecosystems.", expanded: false },
+                { title: "Is the app suitable for both individuals and businesses?", description: "Yes, our blockchain analysis app caters to both individual users looking to monitor their cryptocurrency holdings as well as enterprises needing robust analytics for regulatory compliance, security, and strategic decision making.", expanded: false },
+                { title: "Can I analyze data across multiple blockchains?", description: "Absolutely. Our app supports analysis across various major blockchain networks, allowing you to monitor activities, track assets, and gain insights from multiple blockchain ecosystems simultaneously.", expanded: false },
             ],
         };
     },
