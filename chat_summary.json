@@ -18,5 +18,11 @@
         "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where would you like the 'Hello World' button to be positioned on the app's interface?\", \"option1\": \"Centrally on the main screen\", \"option2\": \"In the app's navigation bar\"}, {\"question 2\": \"What action should occur when the 'Hello World' button is pressed?\", \"option1\": \"Display a popup message with 'Hello World'\", \"option2\": \"Navigate to a new page with more information\"}], \"input_token_count\": 261, \"output_token_count\": 106, \"time_taken\": \"0:00:05.026615\"}",
         "timestamp": "01082024085911",
         "message_id": "guest01082024085904"
+    },
+    {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Implement live blockchain feed ticker\", \"checked\": true}, {\"feature\": \"Include a 'Search by Hash' functionality for quick data retrieval\", \"checked\": false}, {\"feature\": \"Add interactive charts for blockchain analytics\", \"checked\": false}, {\"feature\": \"Offer a dark/light mode toggle for user preference\", \"checked\": true}, {\"feature\": \"Incorporate push notifications for blockchain alerts\", \"checked\": false}, {\"feature\": \"Create a user dashboard for personalized blockchain analysis\", \"checked\": false}], \"input_token_count\": 215, \"output_token_count\": 109, \"time_taken\": \"0:00:06.944410\"}",
+        "timestamp": "01082024085913",
+        "message_id": "guest01082024085904"
     }
 ]
